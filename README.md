@@ -1,7 +1,7 @@
 <h1 align="center">Medium Curated Topics</h1>
 
 <p align="center">
-  <img src="https://github.com/marianamv112/medium-curated-topics-chrome-extension/blob/master/Medium%20Curated%20Topics%20Logo.png?raw=true" />
+  <img src="https://github.com/marianamv112/medium-curation-topics-extension/blob/master/Medium%20Curated%20Topics%20Logo.png?raw=true" />
 </p> 
 
 *Medium Curated Topics is a Chrome Extension to display the curated topics in each story's stats page.* 
