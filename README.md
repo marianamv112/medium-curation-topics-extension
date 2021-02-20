@@ -14,7 +14,7 @@
 1. Drag the `medium-curation-topics-extension` folder anywhere on the page to import it (do not delete the folder afterwards).
 
 ### Do you wish to show me some support?
-* Follow me on Medium [@marianamv](https://marianamv.medium.com/), read my articles, comment (I ALWAYS respond) and clap for them. 
+* Follow me on Medium [@marianamv](https://marianamv.medium.com/), read my articles, comment and clap for them. 
 * I am very much into coffee, you can always [buy me one](https://www.buymeacoffee.com/marianamvargas)
 * Star this repo
 
