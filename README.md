@@ -7,7 +7,7 @@
 *Medium Curated Topics is a Chrome Extension to display the curated topics in each story's stats page.* 
 
 ### Installation Instructions
-1. Download this repo as a [ZIP file from GitHub](https://github.com/marianamv112/medium-curated-topics-chrome-extension/archive/master.zip).
+1. Download this repo as a [ZIP file from GitHub](https://github.com/marianamv112/medium-curation-topics-extension/archive/master.zip).
 1. Unzip the file and you should have a folder named `medium-curation-topics-extension`.
 1. In Chrome/Brave go to the extensions page (`chrome://extensions`).
 1. Enable Developer Mode.
