@@ -1,0 +1,26 @@
+{
+    "name": "Medium Curated Topics",
+    "version": "0.0.0.1",
+    "icons": { 
+      "16": "images/medium_curation16.png",
+      "32": "images/medium_curation32.png",
+      "48": "images/medium_curation48.png",
+      "128": "images/medium_curation128.png"
+    },
+    "description": "See which topics your story has been curated!",
+    "permissions": ["*://*/"],
+    "content_scripts": [
+        {
+          "matches": [
+            "https://*.medium.com/me/stats/post/*"
+          ],
+          "js": ["topics.js"]
+        }
+      ],
+      "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+      },
+      
+    "manifest_version": 2
+  }
